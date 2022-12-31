@@ -21,6 +21,7 @@
 <h1>
 # :fire: My Stats :
 </h1>
-<div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tusgino&theme=merko)](https://git.io/streak-stats)
+<div align="center">
+<img alt="tusgino's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tusgino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> 
+<img alt="tusgino's Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=tusgino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
