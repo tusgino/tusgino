@@ -16,12 +16,13 @@
   </a>
 </div>
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=tusgino&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
 # :fire: My Stats :
 </h1>
 <div align="center">
 <img alt="tusgino's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tusgino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> 
+                  <br>
 <img alt="tusgino's Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=tusgino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
